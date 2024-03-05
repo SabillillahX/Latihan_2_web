@@ -1,0 +1,8 @@
+:root{
+    background-image: url(halo.jpg);
+    background-size: cover;
+}
+
+.background{
+    background-image: url("halo.jpg");
+}
